@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2lIQQCQ6j3M=",
+  "success": true,
+  "projectFilePath": "C:\\Development\\QuizGeneratorConverter\\QuizGeneratorConverter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marko\\.nuget\\packages\\markdig\\0.40.0\\markdig.0.40.0.nupkg.sha512",
+    "C:\\Users\\marko\\.nuget\\packages\\yamldotnet\\16.3.0\\yamldotnet.16.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
